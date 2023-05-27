@@ -1,0 +1,17 @@
+@Author: Đào Xuân Mạnh - 70DCHT21049
+
+Mô tả: Chương trình giúp bạn có thể quản lý thông tin nhân viên, hàng hóa, nhà cung cấp, khách hàng. Gồm chức năng: Thêm, sửa, xóa, tìm kiếm.
+       Quản lý thông tin phiếu nhập và phiếu xuất - Số lượng hàng hóa tồn kho sẽ tăng giảm tương ứng. Gồm chức năng: Lập phiếu, sửa phiếu, xóa phiếu và in phiếu.
+
+Lưu ý: Để chạy chương trình đầy đủ cần có crytal report. Nếu máy tính chưa có hãy cài đặt theo link sau:
+https://origin.softwaredownloads.sap.com/public/file/0020000000195612021
+
+Bước 1: Mở file "QuanLyKhoVatTu_Nhom5.sql"
+Bước 2:	Vào SQL server tạo 1 database có tên "QuanLyKhoVatTu_Nhom5"
+Bước 3:	Chọn Excute
+Bước 4: Chuột phải vào Database "QuanLyKhoVatTu_Nhom5"-> Chọn Refresh
+Bước 5: Giải nén file "QuanLyKhoVatTu_Nhom5.rar"
+Bước 6: Mở file đã giản nén chọn "QuanLyKhoVatTu_Nhom5.sln"
+Bước 7: Vào class ConnectDatabase.cs và thay đổi nguồn kết nối "Data Source=LAPTOP-584IQG0K;Initial Catalog=QuanLyKhoVatTu_Nhom5;Integrated Security=True" -> nguồn kết nối đến database "QuanLyKhoVatTu_Nhom5" ở máy bạn.
+
+Chúc bạn thành công!
